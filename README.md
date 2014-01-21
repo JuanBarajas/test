@@ -5,4 +5,6 @@ README
 
 
 REFERENCES
-https://github.com/barryvdh/laravel-debugbar
+====
+- https://github.com/barryvdh/laravel-debugbar
+- http://cheats.jesse-obrien.ca/
