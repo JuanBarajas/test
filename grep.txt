@@ -1,0 +1,6 @@
+GREP
+====
+# search, exclude .svn subfolders
+grep 'searchterm' . -R | grep -v '.svn'
+# to quit searching: control+c
+# use '-Rl' (lowercase L) to get only the file names
