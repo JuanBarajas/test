@@ -1,3 +1,10 @@
 http://nvie.com/posts/a-successful-git-branching-model/
 
 http://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff
+
+
+# Keep feature branch up to date
+https://coderwall.com/p/9idt5g
+
+# Merge vs Rebase
+http://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-questions
