@@ -8,3 +8,8 @@ https://coderwall.com/p/9idt5g
 
 # Merge vs Rebase
 http://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-questions
+
+
+#Other
+http://blog.jonathanoliver.com/my-new-best-friend-git-merge-no-ff/
+http://walkingthestack.blogspot.com/2012/05/why-you-should-use-git-merge-no-ff-when.html
