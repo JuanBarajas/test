@@ -13,3 +13,6 @@ http://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-quest
 #Other
 http://blog.jonathanoliver.com/my-new-best-friend-git-merge-no-ff/
 http://walkingthestack.blogspot.com/2012/05/why-you-should-use-git-merge-no-ff-when.html
+
+# Ignore files locally only
+http://stackoverflow.com/questions/1753070/git-ignore-files-only-locally
