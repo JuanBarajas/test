@@ -16,3 +16,9 @@ http://walkingthestack.blogspot.com/2012/05/why-you-should-use-git-merge-no-ff-w
 
 # Ignore files locally only
 http://stackoverflow.com/questions/1753070/git-ignore-files-only-locally
+
+
+#-------------------------------------------
+# prune tracking of remote branch that no longer exist
+#-------------------------------------------
+$ git fetch -p
