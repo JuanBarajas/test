@@ -1,9 +1,3 @@
-README
-====
-- Item 1
-- 
-
-
 REFERENCES
 ====
 - https://github.com/barryvdh/laravel-debugbar
@@ -12,3 +6,7 @@ REFERENCES
 REGULAR EXPRESSIONS
 ===
 - http://regexr.com/
+
+ANGULAR
+===
+- https://github.com/curran/screencasts/tree/gh-pages/introToAngular
